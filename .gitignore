@@ -59,3 +59,11 @@ build*
 /CMakeSettings.json
 .DS_Store
 *.swp
+
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user 
