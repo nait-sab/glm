@@ -67,3 +67,10 @@ bin-int/
 
 # Files
 *.user 
+
+# Directories
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
